@@ -6,9 +6,9 @@ Nebraska is a region prone to tornadoes, and it is crucial to gather and analyze
 
 This project focuses on the analysis of storm data in Nebraska, leveraging artificial intelligence and data analysis tools to gain insights into the behavior of tornadoes. The goal is to contribute to a better understanding of these weather phenomena, leading to more accurate predictions and improved preparedness.
 
-<a href="https://goopics.net/i/905qur"><img src="https://i.goopics.net/905qur.png" alt="Image" height="400px"></a>
-<a href="https://goopics.net/i/esttsw"><img src="https://i.goopics.net/esttsw.png" alt="Image" height="400px"></a>
-<a href="https://goopics.net/i/w3jozx"><img src="https://i.goopics.net/w3jozx.png" alt="Image" height="400px"></a>
+<a href="https://ibb.co/n66f6B4"><img src="https://i.ibb.co/FmmJmXc/Screenshot-2024-02-11-153740.png" alt="Heatmap-magnitude" height="400px"></a>
+<a href="https://ibb.co/GkbX1Wk"><img src="https://i.ibb.co/S0921t0/Screenshot-2024-02-11-153959.png" alt="Graph-Tornado" height="400px"></a>
+<a href="https://ibb.co/6wBGXHr"><img src="https://i.ibb.co/C824Pbm/Screenshot-2024-02-11-154119.png" alt="Plot-table" height="400px"></a>
 
 
 ## How to Use
